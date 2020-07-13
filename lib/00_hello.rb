@@ -1,4 +1,4 @@
-def hello 
+def hello
   'Hello!'
 end
 
